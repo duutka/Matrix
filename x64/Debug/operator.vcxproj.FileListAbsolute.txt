@@ -1,0 +1,2 @@
+D:\work\c++\operator\x64\Debug\matirx.exe
+D:\work\c++\operator\x64\Debug\matirx.pdb
